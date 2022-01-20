@@ -1,6 +1,6 @@
 {
-	"name": "Angular Template Helper",
-	"displayName": "test-app",
+	"name": "Cross-Angular-Template-Helper",
+	"displayName": "Angular Template Helper",
 	"description": "openfiles",
 	"version": "0.0.1",
 	"engines": {
@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "angularTemplateHelper.openAsSplit",
-				"title": "Angular Template Helper"
+				"title": "Cross Angular Template Helper"
 			}
 		],
 		"keybindings": {

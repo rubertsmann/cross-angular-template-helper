@@ -2,7 +2,7 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-	console.log('Congratulations, your extension "Angular Template Helper" is now active!');
+	console.log('Congratulations, your extension "Cross Angular Template Helper" is now active!');
 	let disposable = vscode.commands.registerCommand('angularTemplateHelper.openAsSplit', () => {
 	
 		const wsFolders = vscode.workspace.workspaceFolders;
