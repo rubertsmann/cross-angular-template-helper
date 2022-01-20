@@ -2,6 +2,7 @@
 
 "Cross Angular Template Helper" is an app to easier navigate through your angular projects.
 
+
 ## Features
 
 Opens splitviewed on a shortcut the respective .ts / .html files for easier navigation when using angular projects. 
