@@ -8,7 +8,7 @@
 	"icon": "images/cross-logo.png",
 	"description": "A helpful extension for easier navigation in angular projects",
 	"publisher": "rubertsmann",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
