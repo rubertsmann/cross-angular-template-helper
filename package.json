@@ -1,7 +1,13 @@
 {
 	"name": "Cross-Angular-Template-Helper",
-	"displayName": "Angular Template Helper",
-	"description": "openfiles",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/rubertsmann/cross-angular-template-helper.git"
+	},
+	"displayName": "Cross Angular Template Helper",
+	"icon": "images/cross-logo.png",
+	"description": "A helpful extension for easier navigation in angular projects",
+	"publisher": "rubertsmann",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.63.0"
